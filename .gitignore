@@ -1,0 +1,38 @@
+# Unreal Engine .gitignore
+
+# Compiled / generated build output
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Plugin build output (keep plugin source, drop their builds)
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# IDE / editor files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+
+# Crash dumps / logs
+*.log
+*.dmp
