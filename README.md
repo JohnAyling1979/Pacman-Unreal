@@ -2,7 +2,7 @@
 
 A Pac-Man clone built in Unreal Engine 5.7 using Blueprints.
 
-![Game Over screen](Gameover.png)
+![Screenshot](Screenshot.png)
 
 ## Overview
 
